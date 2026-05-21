@@ -1,13 +1,11 @@
 # Substation-Defect-Detection
-Substation  Defect Detection Dataset
 
 ## 1. Dataset Description 
 This repository provides the dataset information for the substation equipment defect detection task used in our study on GRID-YOLO.
 The dataset is constructed for intelligent substation inspection scenarios. It contains multiple categories of substation equipment defects and safety-related abnormal events, aiming to support research on equipment defect detection, small-object recognition, and lightweight object detection models in complex substation environments.
 
 ## 2. Dataset Name  
-The dataset used in this study is named:
-**Substation  Defect Detection Dataset**
+The dataset used in this study is named: **SDD Dataset**
 
 ## 3. Categories 
 The dataset includes the following categories:
